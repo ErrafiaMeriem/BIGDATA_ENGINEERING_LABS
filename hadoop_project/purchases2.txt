@@ -1,0 +1,2 @@
+1,2023-01-02,10:30,Paris,TV,499.99,CreditCard
+2,2023-01-03,15:45,Madrid,Laptop,899.00,Cash
